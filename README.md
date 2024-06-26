@@ -41,3 +41,7 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correç
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Link do Vídeo de Apresentação
+
+- https://www.youtube.com/watch?v=ZkGIgql0ovo&t=13s
